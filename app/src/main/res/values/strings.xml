@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">First Task </string>
+    <string name="title">LANGUAGE SELECTOR AND REGEX</string>
+    <string name="message">Please select your language </string>
+    <string name="btn_change_language">-</string>
+    <string name="hello_world_dialog">Hello World</string>
+    <string name="btn_toast">Hello</string>
+    <string name="dialog_title">Select your Language</string>
+    <string name="regex_close_btn">Check</string>
+    <string name="regex">REGEX</string>
+
+
+    <string-array name="choose_lang">
+        <item>English</item>
+        <item>Croatian</item>
+    </string-array>
+</resources>
